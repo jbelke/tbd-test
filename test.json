@@ -1,0 +1,77 @@
+{
+  "name": "Business: Butte Pipeline",
+  "description": "An ERC-1155 NFT representing Butte Pipeline located in Osage, WY.",
+  "image": "https://placehold.jp/30/ededed/696969/500x500.png?text=Butte Pipeline",
+  "animation_url": "https://placehold.jp/30/ededed/696969/500x500.png?text=Butte Pipeline?animation",
+  "logo": "https://placehold.jp/30/ededed/696969/500x500.png?text=Butte Pipeline?logo",
+  "website": "https://truecos.com",
+  "dna": "229a4cbe-3f42-4535-a202-cfcccb672506",
+  "edition": 1,
+  "year": 2024,
+  "creator": "The Business Directory",
+  "powered": "TBD",
+  "attributes": [
+    {
+      "trait_type": "SIC2 Code",
+      "display_type": null,
+      "value": "Energy & Resources"
+    },
+    {
+      "trait_type": "SIC8 Code",
+      "display_type": null,
+      "value": "Crude Petroleum Pipelines"
+    },
+    {
+      "trait_type": "State Code",
+      "display_type": null,
+      "value": "WY"
+    },
+    {
+      "trait_type": "City",
+      "display_type": null,
+      "value": "Osage"
+    },
+    {
+      "trait_type": "ZIP Code",
+      "display_type": null,
+      "value": "82723"
+    },
+    {
+      "trait_type": "Web",
+      "display_type": null,
+      "value": "https://truecos.com"
+    },
+    {
+      "trait_type": "Industry",
+      "display_type": null,
+      "value": "Transportation and Warehousing"
+    },
+    {
+      "trait_type": "EVM Address",
+      "display_type": null,
+      "value": null
+    },
+    {
+      "trait_type": "BTC Address",
+      "display_type": null,
+      "value": null
+    },
+    {
+      "trait_type": "Kaspa Address",
+      "display_type": null,
+      "value": null
+    },
+    {
+      "trait_type": "Networks",
+      "display_type": null,
+      "value": [
+        {
+          "Ethereum Mainnet": 1,
+          "OP Mainnet": 10,
+          "Polygon Mainnet": 137
+        }
+      ]
+    }
+  ],
+  "id": "21541104"
+}
